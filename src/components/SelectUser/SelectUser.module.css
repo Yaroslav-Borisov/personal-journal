@@ -1,0 +1,12 @@
+.select {
+	padding: 10px;
+	background: none;
+	border: 1px solid #323232;
+    color: #ffffff;
+    font-family: inherit;
+}
+
+option {
+    background: inherit;
+    color: #323232;
+}
